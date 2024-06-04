@@ -189,4 +189,4 @@ discuss what you would like to change.
 
 Run `clang-format` on your code to ensure it meets the project's coding standards.
 
-Official Discord: [discord.gg/DuYH3Fh](https://discord.gg/DuYH3Fh)
+Official Discord:  https://discord.gg/Nw5ktq6nDM
